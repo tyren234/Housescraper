@@ -18,4 +18,5 @@ Scraper meant to save images, descriptions and prices of apartaments in Mazowiec
 ### Manual
 Just open the script with jupyter notebook, click "play" a coupple of times and it should work.
 Just keep in mind to insert proper PATH to your chromedrive, or whatever browser you use and path to a folder where data should be saved to.
+
 If something doesn't work - please report: tymonkwiat@gmail.com
